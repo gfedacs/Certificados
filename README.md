@@ -1,2 +1,2 @@
 # LinuxBasico
-Certificado de conclusão do curdo de Linux básico.
+Certificado de conclusão do curso de Linux básico.
